@@ -21,7 +21,7 @@ sections:
 
 
     actions:
-      - label: Contact Me
+      - label: ContactAME
         url: /contact
         style: button
   - section_id: recent-posts
