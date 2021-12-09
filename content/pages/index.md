@@ -6,8 +6,8 @@ sections:
     type: section_hero
     title: Hola y bienvenid@s a HeyBlog
     content: >
-      > ###### Aquí encontraras contenido educativo para desarrollo personal,
-      consejos de vida y mucho mas...
+      > Aquí encontraras contenido educativo para desarrollo personal, consejos
+      de vida y mucho mas...
   - section_id: about
     type: section_content
     title: About
